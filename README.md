@@ -8,7 +8,7 @@
 
 **zs** is a replacement to the `ls` command, it lists directories and files in a nicely formatted and color coded way.
 
-![[img.png]]
+![](https://github.com/myferr/zs/blob/main/img.png?raw=true)
 
 # Documentation
 
